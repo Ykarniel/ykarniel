@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Yonatan Karniel 👋</h1>
+## Hi there 👋
+<h1 align="center">Hi there, I'm Yonatan</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yonatan-karniel-067473231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,7 +12,6 @@
 
 I'm a **second-year Electrical and Computer Engineering student** at the **Technion - Israel Institute of Technology** with a passion for building innovative software solutions.
 
-- 🔭 Currently working as a **Software Developer** at Dinit Information Systems
 - 🎓 Specializing in **Signal Processing** and **Digital Systems**
 - 💡 Driven by a "get-it-done" mentality with hands-on experience in full-stack development
 - 🎖️ IDF veteran - served as Combat Soldier, Medic, and Commander
@@ -39,7 +39,7 @@ I'm a **second-year Electrical and Computer Engineering student** at the **Techn
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **FPGA Game Project** | A complete game implementation on FPGA hardware with VGA display and keyboard input | SystemVerilog, Quartus |
+| **Superhero-miner FPGA Game** | A complete game implementation on FPGA hardware with VGA display and keyboard input | SystemVerilog, Quartus |
 | **Shlifim** | AI-powered flashcard study application | React, Firebase, Node.js |
 
 *More projects coming soon!*
@@ -74,3 +74,18 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <p align="center">
   <i>⚡ Fun fact: When I'm not coding, you'll find me cycling, hiking, or capturing moments through photography!</i>
 </p>
+
+<!--
+**Ykarniel/ykarniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

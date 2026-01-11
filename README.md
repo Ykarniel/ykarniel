@@ -8,13 +8,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a **second-year Electrical and Computer Engineering student** at the **Technion - Israel Institute of Technology** with a passion for building innovative software solutions.
-
-- 🎓 Specializing in **Signal Processing** and **Digital Systems**
-- 💡 Driven by a "get-it-done" mentality with hands-on experience in full-stack development
-- 🎖️ IDF veteran - served as Combat Soldier, Medic, and Commander
+- Have 3 years of experience in .NET Core / C# development for scalable enterprise applications; SQL database optimization and schema design.
+- Specializing in **Signal Processing** and **Digital Systems**
+- Driven by a "get-it-done" mentality with hands-on experience in full-stack development
+- IDF veteran - served as a Combat Soldier, Medic, and Commander
 
 ---
 

@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi there, I'm Yonatan Karniel 👋</h1>
 
 <p align="center">
@@ -41,7 +40,7 @@ I'm a **second-year Electrical and Computer Engineering student** at the **Techn
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **FPGA Game Project** | A complete game implementation on FPGA hardware with VGA display and keyboard input | SystemVerilog, Quartus |
-| **FlyCard** | AI-powered flashcard study application | React, Firebase, Node.js |
+| **Shlifim** | AI-powered flashcard study application | React, Firebase, Node.js |
 
 *More projects coming soon!*
 
@@ -75,18 +74,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <p align="center">
   <i>⚡ Fun fact: When I'm not coding, you'll find me cycling, hiking, or capturing moments through photography!</i>
 </p>
-
-<!--
-**Ykarniel/ykarniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

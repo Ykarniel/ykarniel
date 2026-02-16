@@ -1,6 +1,6 @@
 <h1 align="center">Yonatan Karniel</h1>
 <p align="center">
-  <strong>Electrical & Computer Engineering Student | Technion - Israel Institute of Technology</strong>
+  <strong>B.Sc. Electrical Engineering @ Technion | Full-Stack & Hardware Engineer</strong>
 </p>
 
 <p align="center">
@@ -10,29 +10,39 @@
 
 ---
 
-### 🛠️ Core Specialization: Digital Systems & Hardware Architecture
+### 🧬 About Me
 
-I am a second-year student at the **Technion** specializing in **Signal Processing** and **Digital Systems**. My work focuses on the intersection of high-performance hardware (FPGAs), embedded systems, and AI-driven automation. I bring a "get-it-done" engineering mindset combined with a background in scalable software development.
+I am a **second-year Electrical Engineering student** at the **Technion** with 3 years of professional experience in **.NET Core / C#** development. My expertise lies in bridging the gap between high-level scalable architectures and low-level hardware design.
 
-- ⚡ **Digital Systems**: High-performance RTL design (SystemVerilog) for FPGAs.
-- 📟 **Embedded Systems**: Low-level C/C++ development for ESP32 and ARM-based platforms.
-- 🤖 **AI-Hardware Integration**: Leveraging LLMs for real-time firmware synthesis and adaptive logic.
-- 🪖 **Background**: IDF veteran (Medic & Commander). Disciplined, resourceful, and mission-oriented.
+- ⚡ **Specialization**: Digital Systems, FPGA Architecture, and Signal Processing.
+- 🚀 **Mentality**: A mission-oriented "get-it-done" approach, forged during 3 years of IDF service as a Medic and Commander.
+- 🤖 **Innovation**: Integrating GenAI/LLM workflows into both software and hardware engineering to accelerate delivery and complexity.
+
+---
+
+### 💼 Professional Experience
+
+**Software Developer | Dinit Information Systems** (Nov 2022 – Oct 2025)
+*   **Enterprise .NET**: Engineered key features for 'Dinit Neeman', an insolvency case management platform, driving a 20% increase in the customer base.
+*   **Full-Stack Architecture**: Built a complete ISP management system (UI + REST API) from scratch using **Blazor**, collaborating with Bezeq infrastructure personnel.
+*   **Database Systems**: Specialized in SQL database optimization and complex schema design.
+*   **AI Workflows**: Integrated Claude Code and Cursor into the dev cycle to significantly reduce feature turnaround time.
 
 ---
 
 ### 🚀 High-Impact Projects
 
 #### [📱 Universal Adaptive Device (UAD)](https://github.com/Ykarniel/UAD-Universal-Adaptive-Device)
-A paradigm-shifting hardware platform that transforms its purpose on-demand. Using a custom **"Hardware App Store"** model, UAD leverages Gemini AI to synthesize optimized C++ firmware and React dashboard widgets based on user selection, deployed instantly via BLE OTA.
-*   **Tech**: ESP32-S3, C++, Gemini AI, React, LoRa Mesh, BLE.
+A modular IoT platform supporting **"OTA Hot-Swapping"** of functional capabilities. Users generate custom firmware via natural language prompts, which Gemini AI synthesizes into C++ modules and React widgets, deployed instantly via BLE.
+*   **Tech**: ESP32-S3 (C++), GenAI, React, LoRa Mesh, TinyML.
 
 #### [🦸 Superman Miner FPGA](https://github.com/Ykarniel/Superman-Miner-FPGA)
-A high-performance arcade game implemented entirely in hardware. This project demonstrates real-time VGA graphics generation (640x480), custom hardware collision detection logic, and audio synthesis on an Intel Cyclone V.
-*   **Tech**: SystemVerilog, Intel DE10-Standard, Quartus Prime, VGA, PS/2.
+A complete arcade game implemented entirely in hardware logic. Features a custom priority-based visual compositor and real-time collision detection circuits.
+*   **Academic Context**: Developed for EE Lab 1A (**Grade: 99**).
+*   **Tech**: SystemVerilog, Intel Cyclone V, VGA (640x480), PS/2.
 
 #### [🚌 VertexBus](https://github.com/Ykarniel/VertexBus)
-Built to solve the "clunky UI" problem of mainstream transit apps. A streamlined application providing real-time bus arrivals via on-screen widgets for a frictionless daily commute. Uses the Israel Ministry of Transport WebApi.
+A utility-first transit app built to replace clunky mainstream alternatives. Uses on-screen widgets for frictionless access to real-time bus arrivals.
 *   **Tech**: Flutter, Dart, REST APIs.
 
 ---
@@ -41,14 +51,13 @@ Built to solve the "clunky UI" problem of mainstream transit apps. A streamlined
 
 **Hardware & Low-Level:**
 - **HDL**: SystemVerilog, Verilog
-- **Embedded**: C, C++, ESP-IDF, Arduino
-- **FPGA Platforms**: Intel Cyclone V (DE10-Standard), Altera
-- **Tools**: Quartus Prime, ModelSim, I2C/SPI/UART/BLE protocols
+- **Platforms**: Intel Cyclone V (DE10-Standard), ESP32-S3
+- **Tools**: Quartus Prime, ModelSim, I2C, SPI, BLE, TinyML
 
-**Software Engineering:**
-- **Primary**: C# (.NET Core / .NET 8), SQL (PostgreSQL/MySQL)
-- **Frameworks**: Blazor, Avalonia, WPF, React
-- **Concepts**: Signal Processing, MVVM Architecture, RESTful API Design
+**Software & Cloud:**
+- **Primary**: C# (.NET 8 / Core), SQL (Postgres, SQL Server)
+- **Frontend**: React, Blazor, Flutter, Avalonia
+- **AI**: LLM Integration, Prompt Engineering for Firmware Synthesis
 
 ---
 
@@ -62,11 +71,9 @@ Built to solve the "clunky UI" problem of mainstream transit apps. A streamlined
 
 ---
 
-### 🌱 Current Trajectory
-
-*   Exploring **TinyML** for on-device inference in resource-constrained environments.
-*   Advancing research in **Digital Signal Processing** for real-time audio/motion analysis.
-*   Designing more modular, self-adaptive hardware ecosystems.
+### 🎓 Education (Technion)
+- **B.Sc. Electrical Engineering** (GPA: 85)
+- **Key Coursework**: Digital Systems & Computer Structure (**91**), EE Lab 1a (**99**), Theory of Electronic Circuits (**90**).
 
 ---
 

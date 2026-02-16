@@ -20,16 +20,6 @@ I am a **second-year Electrical Engineering student** at the **Technion** with 3
 
 ---
 
-### 💼 Professional Experience
-
-**Software Developer | Dinit Information Systems** (Nov 2022 – Oct 2025)
-*   **Enterprise .NET**: Engineered key features for 'Dinit Neeman', an insolvency case management platform, driving a 20% increase in the customer base.
-*   **Full-Stack Architecture**: Built a complete ISP management system (UI + REST API) from scratch using **Blazor**, collaborating with Bezeq infrastructure personnel.
-*   **Database Systems**: Specialized in SQL database optimization and complex schema design.
-*   **AI Workflows**: Integrated Claude Code and Cursor into the dev cycle to significantly reduce feature turnaround time.
-
----
-
 ### 🚀 High-Impact Projects
 
 #### [📱 Universal Adaptive Device (UAD)](https://github.com/Ykarniel/UAD-Universal-Adaptive-Device)

@@ -32,7 +32,7 @@ A high-performance arcade game implemented entirely in hardware. This project de
 *   **Tech**: SystemVerilog, Intel DE10-Standard, Quartus Prime, VGA, PS/2.
 
 #### [🚌 VertexBus](https://github.com/Ykarniel/VertexBus)
-A high-utility transit application providing real-time bus arrivals and route mapping using the Israel Ministry of Transport WebApi.
+Built to solve the "clunky UI" problem of mainstream transit apps. A streamlined application providing real-time bus arrivals via on-screen widgets for a frictionless daily commute. Uses the Israel Ministry of Transport WebApi.
 *   **Tech**: Flutter, Dart, REST APIs.
 
 ---
@@ -55,9 +55,9 @@ A high-utility transit application providing real-time bus arrivals and route ma
 ### 📊 Vital Signs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ykarniel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ykarniel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ykarniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ykarniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ---

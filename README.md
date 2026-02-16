@@ -41,10 +41,6 @@ A complete arcade game implemented entirely in hardware logic. Features a custom
 *   **Academic Context**: Developed for EE Lab 1A (**Grade: 99**).
 *   **Tech**: SystemVerilog, Intel Cyclone V, VGA (640x480), PS/2.
 
-#### [🚌 VertexBus](https://github.com/Ykarniel/VertexBus)
-A utility-first transit app built to replace clunky mainstream alternatives. Uses on-screen widgets for frictionless access to real-time bus arrivals.
-*   **Tech**: Flutter, Dart, REST APIs.
-
 ---
 
 ### 🧰 Technical Arsenal

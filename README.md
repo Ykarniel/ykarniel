@@ -1,91 +1,75 @@
-## Hi there 👋
-<h1 align="center">Hi there, I'm Yonatan</h1>
+<h1 align="center">Yonatan Karniel</h1>
+<p align="center">
+  <strong>Electrical & Computer Engineering Student | Technion - Israel Institute of Technology</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yonatan-karniel-067473231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jonathankarniel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:yonatan.krni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### About Me
+### 🛠️ Core Specialization: Digital Systems & Hardware Architecture
 
-I'm a **second-year Electrical and Computer Engineering student** at the **Technion - Israel Institute of Technology** with a passion for building innovative software solutions.
-- Have 3 years of experience in .NET Core / C# development for scalable enterprise applications; SQL database optimization and schema design.
-- Specializing in **Signal Processing** and **Digital Systems**
-- Driven by a "get-it-done" mentality with hands-on experience in full-stack development
-- IDF veteran - served as a Combat Soldier, Medic, and Commander
+I am a second-year student at the **Technion** specializing in **Signal Processing** and **Digital Systems**. My work focuses on the intersection of high-performance hardware (FPGAs), embedded systems, and AI-driven automation. I bring a "get-it-done" engineering mindset combined with a background in scalable software development.
 
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/SystemVerilog-CAD09D?style=for-the-badge" alt="SystemVerilog">
-</p>
-
-**Software Development:** C# (.NET), SQL, REST APIs, Blazor, WPF, Avalonia  
-**Hardware & Embedded:** C, SystemVerilog, FPGA Programming  
-**Tools:** Git, Visual Studio, Quartus, AI Coding Tools (Cursor, Claude)
+- ⚡ **Digital Systems**: High-performance RTL design (SystemVerilog) for FPGAs.
+- 📟 **Embedded Systems**: Low-level C/C++ development for ESP32 and ARM-based platforms.
+- 🤖 **AI-Hardware Integration**: Leveraging LLMs for real-time firmware synthesis and adaptive logic.
+- 🪖 **Background**: IDF veteran (Medic & Commander). Disciplined, resourceful, and mission-oriented.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 High-Impact Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Superhero-miner FPGA Game** | A complete game implementation on FPGA hardware with VGA display and keyboard input | SystemVerilog, Quartus |
-| **Shlifim** | AI-powered flashcard study application | React, Firebase, Node.js |
+#### [📱 Universal Adaptive Device (UAD)](https://github.com/Ykarniel/UAD-Universal-Adaptive-Device)
+A paradigm-shifting hardware platform that transforms its purpose on-demand. Using a custom **"Hardware App Store"** model, UAD leverages Gemini AI to synthesize optimized C++ firmware and React dashboard widgets based on user selection, deployed instantly via BLE OTA.
+*   **Tech**: ESP32-S3, C++, Gemini AI, React, LoRa Mesh, BLE.
 
-*More projects coming soon!*
+#### [🦸 Superman Miner FPGA](https://github.com/Ykarniel/Superman-Miner-FPGA)
+A high-performance arcade game implemented entirely in hardware. This project demonstrates real-time VGA graphics generation (640x480), custom hardware collision detection logic, and audio synthesis on an Intel Cyclone V.
+*   **Tech**: SystemVerilog, Intel DE10-Standard, Quartus Prime, VGA, PS/2.
+
+#### [🚌 VertexBus](https://github.com/Ykarniel/VertexBus)
+A high-utility transit application providing real-time bus arrivals and route mapping using the Israel Ministry of Transport WebApi.
+*   **Tech**: Flutter, Dart, REST APIs.
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Technical Arsenal
+
+**Hardware & Low-Level:**
+- **HDL**: SystemVerilog, Verilog
+- **Embedded**: C, C++, ESP-IDF, Arduino
+- **FPGA Platforms**: Intel Cyclone V (DE10-Standard), Altera
+- **Tools**: Quartus Prime, ModelSim, I2C/SPI/UART/BLE protocols
+
+**Software Engineering:**
+- **Primary**: C# (.NET Core / .NET 8), SQL (PostgreSQL/MySQL)
+- **Frameworks**: Blazor, Avalonia, WPF, React
+- **Concepts**: Signal Processing, MVVM Architecture, RESTful API Design
+
+---
+
+### 📊 Vital Signs
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ykarniel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykarniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Current Trajectory
 
-- Advanced Digital Signal Processing
-- FPGA Design Patterns
-- Cloud Architecture
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-- 📧 **Email:** jonathankarniel@gmail.com
-- 💼 **LinkedIn:** [Yonatan Karniel](https://www.linkedin.com/in/yonatan-karniel-067473231/)
+*   Exploring **TinyML** for on-device inference in resource-constrained environments.
+*   Advancing research in **Digital Signal Processing** for real-time audio/motion analysis.
+*   Designing more modular, self-adaptive hardware ecosystems.
 
 ---
 
 <p align="center">
-  <i>⚡ Fun fact: When I'm not coding, you'll find me cycling, hiking, or capturing moments through photography!</i>
+  <i>"Simplicity is the soul of efficiency."</i>
 </p>
-
-<!--
-**Ykarniel/ykarniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

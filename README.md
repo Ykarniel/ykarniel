@@ -27,7 +27,6 @@ mailto:yonatan.krni@gmail.com
 
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
-| [📱 UAD](https://github.com/Ykarniel/UAD-Universal-Adaptive-Device) | ESP32-S3 / C++ / Gemini | A modular hardware ecosystem with an AI-powered "Hardware App Store" for on-demand reconfiguration. |
 | [🦸 Superman Miner](https://github.com/Ykarniel/Superman-Miner-FPGA) | SystemVerilog / FPGA | A high-performance arcade game implemented entirely in hardware logic on an Intel Cyclone V. |
 
 ## Full-Stack & Enterprise Highlights
@@ -42,13 +41,11 @@ mailto:yonatan.krni@gmail.com
 
 | Stars | Project | Description |
 | :--- | :--- | :--- |
-| ![Stars](https://img.shields.io/github/stars/Ykarniel/UAD-Universal-Adaptive-Device?style=flat-square&label=%E2%AD%90) | [UAD](https://github.com/Ykarniel/UAD-Universal-Adaptive-Device) | Self-adaptive IoT platform with real-time AI firmware synthesis and OTA hot-swapping. |
 | ![Stars](https://img.shields.io/github/stars/Ykarniel/Superman-Miner-FPGA?style=flat-square&label=%E2%AD%90) | [Superman-Miner-FPGA](https://github.com/Ykarniel/Superman-Miner-FPGA) | RTL-based arcade game featuring custom VGA generation and hardware collision detection logic. |
 
 ## Current Focus
 #current-focus
 
-- **TinyML**: Efficient on-device inference for real-time sensor fusion.
 - **Hardware Agility**: Reducing "Time-to-Firmware" via LLM-assisted RTL design.
 - **Digital Systems**: Specializing in Signal Processing and Computer Structure at the Technion.
 
